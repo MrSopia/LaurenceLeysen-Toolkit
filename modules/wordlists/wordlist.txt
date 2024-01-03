@@ -1,0 +1,10 @@
+kali
+test1
+test12
+admin
+root
+toor
+test123
+rdpadmin
+user
+user1
