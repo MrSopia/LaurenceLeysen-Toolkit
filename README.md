@@ -18,6 +18,11 @@ argparse
 paramiko
 ```
 
+## Disclaimer
+Penetration testing should only be conducted in a controlled environment to prevent unintended consequences.
+These could include damaging the system being tested, exposing sensitive data, or affecting the productivity of users.
+In a controlled environment, testers can ensure that only the intended systems are tested and that any potential harm can be immediately mitigated.
+
 ## Algemene argumenten
 
 - `-o` of `--option`: Selecteer een optienummer.
